@@ -1,2 +1,2 @@
-1.  REDIRECT [Paradigma Lógico - introducción](paradigma-logico---introduccion.md)
+-   [Paradigma Lógico - introducción](paradigma-logico---introduccion.md)
 
