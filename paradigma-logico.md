@@ -14,3 +14,7 @@
 -   [Paradigma Lógico - cómo pienso la resolución de un punto](paradigma-logico---como-pienso-la-resolucion-de-un-punto.md)
 -   [Paradigma Lógico - el forall](paradigma-logico---el-forall.md)
 
+<!-- -->
+
+-   [Polimorfismo en el Paradigma Lógico](polimorfismo-en-el-paradigma-logico.md)
+
