@@ -2,6 +2,7 @@ Paradigmas
 ----------
 
 -   [Paradigma Lógico](paradigma-logico.md)
+-   [Paradigma Funcional](paradigma-funcional.md)
 -   [Paradigma de Objetos](paradigma-de-objetos.md)
 
 ### Conceptos Transversales
