@@ -3,6 +3,12 @@
 Paradigmas
 ----------
 
+### Antes de empezar
+
+-   [Paradigmas - aclaraciones previas](paradigmas---aclaraciones-previas.md)
+
+### Los paradigmas
+
 -   [Paradigma Lógico](paradigma-logico.md)
 -   [Paradigma Funcional](paradigma-funcional.md)
 -   [Paradigma de Objetos](paradigma-de-objetos.md)
