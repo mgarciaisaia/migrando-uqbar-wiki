@@ -1,4 +1,6 @@
 -   [Manejo de booleanos](manejo-de-booleanos.md)
+-   [Métodos de clase para crear objetos inicializados](metodos-de-clase-para-crear-objetos-inicializados.md)
+-   [Ley de demeter](ley-de-demeter.md)
 
 Usamos la “ley de demeter” siempre que es posible (que es la mayoría de las veces), pueden consultarla acá \[1\] y acá \[2\], un resumen:
 
