@@ -17,12 +17,6 @@ Capítulo 5 – manejo de la información 4
 
 Capítulo 6 – más características 4 Polimorfismo en el paradigma lógico 4
 
-### Conceptos Transversales
-
--   [Orden Superior](orden-superior.md)\* [Paradigma Lógico - introducción](paradigma-logico---introduccion.md)
-
-<!-- -->
-
 -   [Paradigma Lógico - un poco de nomenclatura](paradigma-logico---un-poco-de-nomenclatura.md)
 -   [Paradigma Lógico - individuos compuestos](paradigma-logico---individuos-compuestos.md)
 
