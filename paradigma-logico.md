@@ -1,4 +1,14 @@
--   [Paradigma Lógico - introducción](paradigma-logico---introduccion.md)
+Paradigmas
+----------
+
+### Antes de empezar
+
+### Conceptos Transversales
+
+-   [Orden Superior](orden-superior.md)\* [Paradigma Lógico - introducción](paradigma-logico---introduccion.md)
+
+<!-- -->
+
 -   [Paradigma Lógico - un poco de nomenclatura](paradigma-logico---un-poco-de-nomenclatura.md)
 
 <!-- -->
