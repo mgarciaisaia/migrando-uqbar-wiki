@@ -49,7 +49,7 @@ El paradigma lógico trabaja con el principio de [Universo Cerrado](universo-cer
 
 ### Inversibilidad
 
-{main|Paradigma Lógico - inversibilidad|inversibilidad} Esta característica de permitir realizar diferentes tipos de consulta sobre un predicado se denomina [inversibilidad](paradigma-logico---inversibilidad.md).
+Esta característica de permitir realizar diferentes tipos de consulta sobre un predicado se denomina [inversibilidad](paradigma-logico---inversibilidad.md).
 
 Sin embargo no todos los predicados admiten todas las formas de consulta la inversibilidad de un predicado se puede analizar argumento x argumento, decimos que es “inversible” a secas cuando es inversible para cada uno de sus argumentos.
 
