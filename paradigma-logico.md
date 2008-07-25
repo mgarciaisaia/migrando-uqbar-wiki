@@ -1,9 +1,6 @@
 | | \_\_TOC\_\_ |
 |---------------|
 
-¿Por qué “lógico”?
-------------------
-
 Porque está relacionado con conceptos de lógica matemática, en particular:
 
 -   predicado
