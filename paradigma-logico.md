@@ -45,7 +45,7 @@ Existen dos tipos de consulta:
 
 </code> Nótese en el segundo tipo de consulta la presencia de [variables o incógnitas](variables-o-incognitas.md). Por ese motivo este tipo de consultas también son llamadas consultas variables.
 
-El paradigma lógico trabaja con el principio de [Universo Cerrado](universo-cerrado.md).
+El paradigma lógico trabaja con el principio de [Universo Cerrado](paradigma-logico---introduccion-universo-cerrado.md).
 
 ### Inversibilidad
 
