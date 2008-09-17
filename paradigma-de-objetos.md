@@ -12,6 +12,7 @@ Cosas que pueden servir para pensar en cómo modelar un enunciado
 ----------------------------------------------------------------
 
 -   [Diferencia entre objetos y procedural - con un ejercicio de la guía 1](diferencia-entre-objetos-y-procedural---con-un-ejercicio-de-la-guia-1.md)
+-   [Nombres de clases](nombres-de-clases.md)
 -   [Ley de demeter](ley-de-demeter.md)
 
 Cosas que pueden servir para el TP
