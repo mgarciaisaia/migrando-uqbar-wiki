@@ -6,6 +6,7 @@ Objetos básicos
 -   [Manejo de booleanos](manejo-de-booleanos.md)
 -   [min: y max:](min--y-max-.md)
 -   [Errores comunes con select: y collect:](errores-comunes-con-select--y-collect-.md)
+-   [Cómo hacer para que de un objeto muestre lo que yo quiero](como-hacer-para-que-de-un-objeto-muestre-lo-que-yo-quiero.md)
 
 Cosas que pueden servir para pensar en cómo modelar un enunciado
 ----------------------------------------------------------------
