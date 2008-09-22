@@ -26,6 +26,12 @@ Condiciones: “y” vs “o” Esta sección es para que detecten cuándo es �
 
 ### Negación
 
+(más adelante)
+
+### Valores y variables
+
+Ver [Lógico - trabajo con valores](logico---trabajo-con-valores.md)
+
 Algunas Características Relevantes
 ----------------------------------
 
