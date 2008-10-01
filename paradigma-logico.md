@@ -86,9 +86,15 @@ listas – conjuntos explícitos • Definición de lista: lista vacía o (cabez
 
 ### Forall
 
-forall – “a todos los que les pasa A, les pasa B” • Tener claro si uno quiere poner “uno” o “todos”, si es “todos” va forall, sino va simplemente la condición. Relacionar con cómo se ligan las variables. • Acá también hay problemas con la inversibilidad si ciertas variables no llegan ligadas. Solución con generadores.
+forall – “a todos los que les pasa A, les pasa B”
 
--   [Paradigma Lógico - el forall](paradigma-logico---el-forall.md)
+Descripción: [Paradigma Lógico - el forall](paradigma-logico---el-forall.md) Un mal uso típico: [Paradigma Lógico - forall - no siempre con member](paradigma-logico---forall---no-siempre-con-member.md)
+
+Algunos tips rápidos
+
+-   Tener claro si uno quiere poner “uno” o “todos”, si es “todos” va forall, sino va simplemente la condición. Relacionar con cómo se ligan las variables.
+-   Acá también hay problemas con la inversibilidad si ciertas variables no llegan ligadas. Solución con generadores.
+-   No es necesario que el primer argumento del forall sea `member(...)`, en particular desconfíen de los findall seguidos de forall.
 
 ### Estructuras de datos
 
