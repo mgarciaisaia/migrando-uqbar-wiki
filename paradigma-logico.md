@@ -80,9 +80,15 @@ Manejo de conjuntos
 
 -   [Paradigma Lógico - individuos compuestos](paradigma-logico---individuos-compuestos.md)
 
-### Listas
+### Listas - en construcción
 
-listas – conjuntos explícitos • Definición de lista: lista vacía o (cabeza y cola) • Pattern matching • Definiciones recursivas • findall o usarlo sólo si lo necesito todo esto con ejemplos de uso
+listas – conjuntos explícitos
+
+-   Definición de lista: lista vacía o (cabeza y cola)
+-   Pattern matching
+-   Definiciones recursivas
+-   findall
+    -   usarlo sólo si lo necesito
 
 ### Forall
 
