@@ -88,7 +88,8 @@ listas – conjuntos explícitos • Definición de lista: lista vacía o (cabez
 
 forall – “a todos los que les pasa A, les pasa B”
 
-Descripción: [Paradigma Lógico - el forall](paradigma-logico---el-forall.md) Un mal uso típico: [Paradigma Lógico - forall - no siempre con member](paradigma-logico---forall---no-siempre-con-member.md)
+Descripción: [Paradigma Lógico - el forall](paradigma-logico---el-forall.md)
+Un mal uso típico: [Paradigma Lógico - forall - no siempre con member](paradigma-logico---forall---no-siempre-con-member.md)
 
 Algunos tips rápidos
 
