@@ -117,5 +117,6 @@ Meter acá lo de cómo hacer jugar el estado en el dominó. Sería ideal contar 
 Más características
 -------------------
 
+-   [Paradigma Lógico - detalles del SWI Prolog](paradigma-logico---detalles-del-swi-prolog.md)
 -   [Polimorfismo en el Paradigma Lógico](polimorfismo-en-el-paradigma-logico.md)
 
