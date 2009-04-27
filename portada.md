@@ -21,7 +21,7 @@ Paradigmas
 Técnicas Avanzadas de Programación
 ----------------------------------
 
--   \[Manejo de Errores\]
+-   [Manejo de Errores](manejo-de-errores.md)
 
 Apuntes para revisar
 
