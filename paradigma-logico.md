@@ -35,23 +35,9 @@ Ver [Lógico - trabajo con valores](logico---trabajo-con-valores.md)
 Algunas Características Relevantes
 ----------------------------------
 
-### Tipos de consulta
+### Múltiples respuestas
 
-Existen dos tipos de consulta:
-
-;Individuales:Se hacen sobre un individuo específico. Por ejemplo:<code>
-
-    ?- mortal(socrates).
-
-</code>
-
-;Existenciales:Se busca algún individuo que satisfaga la relación. Por ejemplo:<code>
-
-    ?- mortal(X).
-
-</code> Nótese en el segundo tipo de consulta la presencia de [variables o incógnitas](variables-o-incognitas.md). Por ese motivo este tipo de consultas también son llamadas consultas variables.
-
-El paradigma lógico trabaja con el principio de [Universo Cerrado](paradigma-logico---introduccion-universo-cerrado.md).
+Al hacer una [consulta](paradigma-logico---un-poco-de-nomenclatura-consultas.md) se puede obtener más de una respuesta. Esto está relacionado con que estamos trabajando con relaciones, no con funciones. P.ej. si Pedro tiene como primos a Lucía, Alan y Guido; entonces la relación "ser primos" relaciona a Pedro con tres personas, entonces si consulto sobre los primos de Pedro, lo que debe pasar es que se obtengan tres respuestas, una para cada primo.
 
 ### Inversibilidad
 
