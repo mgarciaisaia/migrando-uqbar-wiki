@@ -5,6 +5,7 @@ Teoría
 
 -   [Mensajes y métodos](mensajes-y-metodos.md)
 -   [Variables](variables.md)
+-   [Redefinición](redefinicion.md)
 
 Sintaxis
 --------
