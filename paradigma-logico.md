@@ -100,6 +100,8 @@ Meter acá lo de cómo hacer jugar el estado en el dominó. Sería ideal contar 
 
 -   [Paradigma Lógico - cómo pienso la resolución de un punto](paradigma-logico---como-pienso-la-resolucion-de-un-punto.md)
 
+### Preguntas frecuentes
+
 Más características
 -------------------
 
