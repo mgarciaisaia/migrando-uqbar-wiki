@@ -103,6 +103,8 @@ Meter acá lo de cómo hacer jugar el estado en el dominó. Sería ideal contar 
 Preguntas frecuentes
 --------------------
 
+[Preguntas Frecuentes del Paradigma Lógico](preguntas-frecuentes-del-paradigma-logico.md)
+
 Más características
 -------------------
 
