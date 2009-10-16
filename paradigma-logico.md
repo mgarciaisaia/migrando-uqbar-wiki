@@ -100,10 +100,11 @@ Meter acá lo de cómo hacer jugar el estado en el dominó. Sería ideal contar 
 
 -   [Paradigma Lógico - cómo pienso la resolución de un punto](paradigma-logico---como-pienso-la-resolucion-de-un-punto.md)
 
-Preguntas frecuentes
---------------------
+Errores y preguntas frecuentes
+------------------------------
 
-[Preguntas Frecuentes del Paradigma Lógico](preguntas-frecuentes-del-paradigma-logico.md)
+-   [Errores frecuentes al programar en lógico](errores-frecuentes-al-programar-en-logico.md)
+-   [Preguntas Frecuentes del Paradigma Lógico](preguntas-frecuentes-del-paradigma-logico.md)
 
 Más características
 -------------------
