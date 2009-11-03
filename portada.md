@@ -17,6 +17,7 @@ Paradigmas
 
 -   [Orden Superior](orden-superior.md)
 -   [Transparencia Referencial, Efecto de Lado y Asignación Destructiva](transparencia-referencial--efecto-de-lado-y-asignacion-destructiva.md)
+-   [Diferencias entre polimorfismo, abstracción y encapsulamiento](diferencias-entre-polimorfismo--abstraccion-y-encapsulamiento.md)
 
 Técnicas Avanzadas de Programación
 ----------------------------------
