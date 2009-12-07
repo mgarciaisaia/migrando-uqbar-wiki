@@ -37,3 +37,8 @@ Cosas que pueden servir para el TP
 -   [Tutorial de Squeak](tutorial-de-squeak.md)
 -   [Cómo crear una subclase en Squeak](como-crear-una-subclase-en-squeak.md)
 
+Miscelánea
+----------
+
+-   [igual o idéntico - = vs ==](igual-o-identico-----vs---.md)
+
