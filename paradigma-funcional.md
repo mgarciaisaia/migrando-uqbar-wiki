@@ -11,6 +11,7 @@ Notas sobre el lenguaje Haskell
 -   [Problemas comunes con los tipos numéricos de Haskell](problemas-comunes-con-los-tipos-numericos-de-haskell.md)
 -   [Pattern Matching en Haskell](pattern-matching-en-haskell.md)
 -   [Cuándo usar paréntesis](cuando-usar-parentesis.md)
+-   [Inferencia de tipos](inferencia-de-tipos.md)
 
 Cuestiones más avanzadas
 ------------------------
