@@ -1,3 +1,1 @@
-Self - Lenguaje de programación
-
-self - pseudovariable
+[self - pseudovariable](self---pseudovariable.md) Self - Lenguaje de programación
