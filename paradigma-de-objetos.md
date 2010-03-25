@@ -6,7 +6,7 @@ Teoría
 -   [Mensajes y métodos](mensajes-y-metodos.md)
 -   [Variables](variables.md)
 -   [Herencia](herencia.md)
--   [Paradigma de objetos - method lookiup](paradigma-de-objetos---method-lookiup.md)
+-   [Paradigma de objetos - method lookup](paradigma-de-objetos---method-lookup.md)
 -   [Redefinición](redefinicion.md)
 
 Sintaxis
