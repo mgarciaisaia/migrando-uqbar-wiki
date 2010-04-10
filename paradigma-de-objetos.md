@@ -5,6 +5,7 @@ Teoría
 
 -   [Mensajes y métodos](mensajes-y-metodos.md)
 -   [Variables](variables.md)
+-   [self](self.md)
 -   [Polimorfismo](polimorfismo.md)
 -   [Herencia](herencia.md)
 -   [Paradigma de objetos - method lookup](paradigma-de-objetos---method-lookup.md)
