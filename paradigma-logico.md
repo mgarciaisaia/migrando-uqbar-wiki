@@ -63,7 +63,7 @@ Manejo de conjuntos
 
 -   [Paradigma Lógico - individuos compuestos](paradigma-logico---individuos-compuestos.md)
 
-### Listas - en construcción
+### Listas
 
 listas – conjuntos explícitos
 
