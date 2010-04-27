@@ -38,7 +38,7 @@ Cosas que pueden servir para el TP
 
 -   [Preguntas Frecuentes](preguntas-frecuentes.md)
 -   [Métodos de clase para crear objetos inicializados](metodos-de-clase-para-crear-objetos-inicializados.md)
--   [Tutorial de Squeak](tutorial-de-squeak.md)
+-   [Tutorial de Squeak y Pharo](tutorial-de-squeak-y-pharo.md)
 -   [Cómo crear una subclase en Squeak](como-crear-una-subclase-en-squeak.md)
 
 Miscelánea
