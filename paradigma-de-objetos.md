@@ -24,6 +24,7 @@ Objetos básicos
 -   [Errores comunes con select: y collect:](errores-comunes-con-select--y-collect-.md)
 -   [Cómo hacer para que de un objeto muestre lo que yo quiero](como-hacer-para-que-de-un-objeto-muestre-lo-que-yo-quiero.md)
 -   [Creación de objetos, con parámetros](creacion-de-objetos--con-parametros.md)
+-   [\#inject:into:](-inject-into-.md)
 
 Cosas que pueden servir para pensar en cómo modelar un enunciado
 ----------------------------------------------------------------
