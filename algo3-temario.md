@@ -2,7 +2,7 @@ Unidad 1
 --------
 
 -   [Definiciones Iniciales de UI](definiciones-iniciales-de-ui.md)
--   [Clasificacion UI](clasificacion-ui.md)
+-   [Clasificación UI](clasificacion-ui.md)
 
 Unidad 2
 --------
