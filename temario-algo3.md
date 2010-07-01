@@ -1,1 +1,1 @@
-El temario está en [Algo3\_Temario](algo3-temario.md)
+El temario está en [Algo3 Temario](algo3-temario.md)
