@@ -10,8 +10,7 @@ Unidad 2
 --------
 
 -   [Binding entre vista y modelo](binding-entre-vista-y-modelo.md)
--   [Validaciones en la UI](validaciones-en-la-ui.md)
--   [Manejo de errores en la UI](manejo-de-errores-en-la-ui.md)
+-   [Validaciones y manejo de errores en la UI](validaciones-y-manejo-de-errores-en-la-ui.md)
 
 Unidad 3
 --------
