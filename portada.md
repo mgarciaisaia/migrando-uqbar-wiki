@@ -11,6 +11,7 @@ Si sos un estudiante en busca del material de una materia, tal vez te convenga i
 -   [Paradigmas de Programación](paradigmas-de-programacion.md)
 -   [Técnicas Avanzadas de Programación](tecnicas-avanzadas-de-programacion.md)
 -   [Programación de Interfaces de Usuario](programacion-de-interfaces-de-usuario.md)
+-   [Algoritmos III](temario-algo3.md)
 
 Para el que busca algo que vaya más allá de lo visto en las clases aquí hay una lista con algunos artículos sobre [Otros Temas Interesantes de Programación](otros-temas-interesantes-de-programacion.md). Finalmente, otra posibilidad es browsear nuestra colección de propuestas de [Herramientas Útiles](herramientas-utiles.md).
 
