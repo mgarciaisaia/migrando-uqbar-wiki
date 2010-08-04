@@ -164,7 +164,10 @@ Otros controles
 -   **Toolbars**: barra de herramientas
 -   **Menu**: permite generar menú de opciones con jerarquías
 
-Otros links relacionados
-------------------------
+Links relacionados
+------------------
 
-[Binding: Vinculación entre la vista y el modelo](binding--vinculacion-entre-la-vista-y-el-modelo.md) [Algo3 Temario](algo3-temario.md)
+-   [Binding: Vinculación entre la vista y el modelo](binding--vinculacion-entre-la-vista-y-el-modelo.md)
+-   [JFace: Controles y binding](jface--controles-y-binding.md)
+-   [Algo3 Temario](algo3-temario.md)
+
