@@ -18,6 +18,7 @@ Unidad 3
 --------
 
 -   [Descripción global de la arquitectura web](descripcion-global-de-la-arquitectura-web.md)
+-   [Creación de un proyecto web basado en JSP y Servlets](creacion-de-un-proyecto-web-basado-en-jsp-y-servlets.md)
 
 Unidad 4
 --------
