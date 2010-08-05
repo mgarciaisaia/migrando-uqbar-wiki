@@ -181,4 +181,5 @@ Para usar JSTL:
 Links relacionados
 ------------------
 
-[Algo3 Temario](algo3-temario.md)
+-   [Algo3 Temario](algo3-temario.md)
+
