@@ -6,6 +6,7 @@ Los apuntes de estas materias están en construcción así que por ahora tenemos
 
 También hay tutoriales sobre distintas tecnologías para la construcción de interfaces de usuario:
 
+-   [Preparación de un entorno de trabajo con Java, Eclipse, Svn y Maven](preparacion-de-un-entorno-de-trabajo-con-java--eclipse--svn-y-maven.md)
 -   [Creación de un proyecto web basado en JSP y Servlets](creacion-de-un-proyecto-web-basado-en-jsp-y-servlets.md)
 -   [Referencia de Expression Language](referencia-de-expression-language.md)
 -   [Referencia de JSTL](referencia-de-jstl.md)
