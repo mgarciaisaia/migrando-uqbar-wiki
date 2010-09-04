@@ -15,6 +15,7 @@ Sintaxis
 --------
 
 -   [Variables locales en métodos](variables-locales-en-metodos.md)
+-   [Precedencia de Mensajes](precedencia-de-mensajes.md)
 
 Objetos básicos
 ---------------
