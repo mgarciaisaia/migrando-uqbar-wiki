@@ -21,7 +21,7 @@ Problemas de la programación web
 -   Pedido -&gt; respuesta / servidor pasivo.
 -   El HTML es texto.
 
-[HTML](html.md)
+[HTML](html.md) La forma preferida de indicar las cuestiones estéticas de una página html es utilizando [CSS](css.md)
 
 Links relacionados
 ------------------
