@@ -18,8 +18,8 @@ Unidad 3
 --------
 
 -   [Descripción global de la arquitectura web](descripcion-global-de-la-arquitectura-web.md)
--   [HTML Referencia de HTML](html-referencia-de-html.md)
--   [CSS Referencia de CSS](css-referencia-de-css.md)
+-   [Referencia de HTML](html.md)
+-   [Referencia de CSS](css.md)
 -   [Creación de un proyecto web basado en JSP y Servlets](creacion-de-un-proyecto-web-basado-en-jsp-y-servlets.md)
 -   [Referencia de Expression Language](referencia-de-expression-language.md)
 -   [Referencia de JSTL](referencia-de-jstl.md)
