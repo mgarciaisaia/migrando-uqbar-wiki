@@ -1,10 +1,19 @@
 Técnicas Avanzadas de Programación
 ----------------------------------
 
+### Material teórico
+
 -   [Manejo de Errores](manejo-de-errores.md)
--   [Tips para la resolución de un parcial de TADP](tips-para-la-resolucion-de-un-parcial-de-tadp.md)
--   [Frases teadepeanas](frases-teadepeanas.md)
+-   [Ciclo de vida de un objeto](ciclo-de-vida-de-un-objeto.md)
 -   [Bibliografía](bibliografia-sobre-programacion-avanzada-orientada-a-objetos.md)
+
+### Consejos prácticos
+
+-   [Tips para la resolución de un parcial de TADP](tips-para-la-resolucion-de-un-parcial-de-tadp.md)
+
+### Otros
+
+-   [Frases teadepeanas](frases-teadepeanas.md)
 
 Apuntes para revisar
 
