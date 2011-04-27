@@ -7,6 +7,7 @@ Teoría
 -   [Variables](variables.md)
 -   [Polimorfismo](polimorfismo.md)
 -   [Modelando objetos - Responsabilidades y delegación](modelando-objetos---responsabilidades-y-delegacion.md)
+-   [Clases](clases.md)
 -   [Herencia](herencia.md)
 -   [Paradigma de objetos - method lookup](paradigma-de-objetos---method-lookup.md)
 -   [Redefinición](redefinicion.md)
