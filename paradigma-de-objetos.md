@@ -24,6 +24,12 @@ Objetos básicos
 -   [Manejo de booleanos](manejo-de-booleanos.md)
 -   [min: y max:](min--y-max-.md)
 
+Colecciones
+-----------
+
+-   [Errores comunes con select: y collect:](errores-comunes-con-select--y-collect-.md)
+-   <inject:into:>
+
 Cosas que pueden servir para pensar en cómo modelar un enunciado
 ----------------------------------------------------------------
 
@@ -37,6 +43,7 @@ Cosas que pueden servir para el TP
 
 -   [Preguntas Frecuentes](preguntas-frecuentes.md)
 -   [Métodos de clase para crear objetos inicializados](metodos-de-clase-para-crear-objetos-inicializados.md)
+-   [Cómo hacer para que de un objeto muestre lo que yo quiero](como-hacer-para-que-de-un-objeto-muestre-lo-que-yo-quiero.md)
 -   [Tutorial de Squeak y Pharo](tutorial-de-squeak-y-pharo.md)
 -   [Cómo crear una subclase en Squeak](como-crear-una-subclase-en-squeak.md)
 
