@@ -11,6 +11,7 @@ Teoría
 -   [Herencia](herencia.md)
 -   [Paradigma de objetos - method lookup](paradigma-de-objetos---method-lookup.md)
 -   [Redefinición](redefinicion.md)
+-   [Variables y métodos de clase](variables-y-metodos-de-clase.md)
 
 Sintaxis
 --------
