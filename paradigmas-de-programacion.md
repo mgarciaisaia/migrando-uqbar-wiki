@@ -13,4 +13,5 @@
 -   [Diferencias entre polimorfismo, abstracción y encapsulamiento](diferencias-entre-polimorfismo--abstraccion-y-encapsulamiento.md)
 -   [Representación de información](representacion-de-informacion.md)
 -   [Declaratividad vs. Expresividad](declaratividad-vs--expresividad.md)
+-   [Estrategias de Evaluación](estrategias-de-evaluacion.md)
 
