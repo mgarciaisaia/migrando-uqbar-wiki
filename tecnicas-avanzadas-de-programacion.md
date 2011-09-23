@@ -7,6 +7,7 @@ Técnicas Avanzadas de Programación
 -   [Ciclo de vida de un objeto](ciclo-de-vida-de-un-objeto.md)
 -   [Bibliografía](bibliografia-sobre-programacion-avanzada-orientada-a-objetos.md)
 -   [Double dispatch](double-dispatch.md)
+-   [Refactoring](refactoring.md)
 
 ### Tutoriales
 
