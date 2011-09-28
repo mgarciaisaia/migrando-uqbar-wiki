@@ -35,4 +35,5 @@ Arquitecturas
 -------------
 
 -   [Arquitecturas](arquitecturas.md)
+-   [Home](home.md)
 
