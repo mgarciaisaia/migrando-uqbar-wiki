@@ -1,12 +1,14 @@
 -   Qué es un [Paradigma de Programación](paradigma-de-programacion.md)
 
-### Los paradigmas
+Los paradigmas
+--------------
 
 -   [Paradigma Lógico](paradigma-logico.md)
 -   [Paradigma Funcional](paradigma-funcional.md)
 -   [Paradigma de Objetos](paradigma-de-objetos.md)
 
-### Conceptos Transversales
+Conceptos Transversales
+-----------------------
 
 -   [Orden Superior](orden-superior.md)
 -   [Transparencia Referencial, Efecto de Lado y Asignación Destructiva](transparencia-referencial--efecto-de-lado-y-asignacion-destructiva.md)
@@ -14,7 +16,7 @@
 -   [Representación de información](representacion-de-informacion.md)
 -   [Estrategias de Evaluación](estrategias-de-evaluacion.md)
 
-#### Declaritividad
+### Declaritividad
 
 -   [Declaratividad](declaratividad.md)
 -   [Declaratividad vs. Expresividad](declaratividad-vs--expresividad.md)
