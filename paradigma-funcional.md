@@ -5,6 +5,7 @@ Notas sobre el paradigma funcional
 -   [Composición](composicion.md)
 -   [Inferencia de tipos](inferencia-de-tipos.md)
 -   [Currificación](currificacion.md)
+-   [Aplicación Parcial](aplicacion-parcial.md)
 
 Notas sobre el lenguaje Haskell
 -------------------------------
