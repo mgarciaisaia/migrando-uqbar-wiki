@@ -3,11 +3,13 @@ Diseño de Sistemas
 
 ### Unidad 1: Diseño de software e Ingeniería de software
 
+-   [Conceptos de Ingeniería de software y de sistemas](conceptos-de-ingenieria-de-software-y-de-sistemas.md)
 -   [Introducción a las metodologías de desarrollo de software](introduccion-a-las-metodologias-de-desarrollo-de-software.md)
 -   [El papel del diseño en la metodología de desarrollo](el-papel-del-diseno-en-la-metodologia-de-desarrollo.md)
 
 ### Unidad 2: El Proceso de Diseño y las especificaciones
 
+-   [Impacto de los requerimientos en el diseño](impacto-de-los-requerimientos-en-el-diseno.md)
 -   [Conceptos básicos del diseño](conceptos-basicos-del-diseno.md)
 
 ### Unidad 3: Diseño estructurado y funcional
