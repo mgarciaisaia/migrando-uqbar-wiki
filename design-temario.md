@@ -9,8 +9,8 @@ Diseño de Sistemas
 
 ### Unidad 2: El Proceso de Diseño y las especificaciones
 
--   [Impacto de los requerimientos en el diseño](impacto-de-los-requerimientos-en-el-diseno.md)
 -   [Conceptos básicos del diseño](conceptos-basicos-del-diseno.md)
+-   [Impacto de los requerimientos en el diseño](impacto-de-los-requerimientos-en-el-diseno.md)
 
 ### Unidad 3: Diseño estructurado y funcional
 
