@@ -16,6 +16,7 @@ Unidad 2: El Proceso de Diseño y las especificaciones
 -   [Cobertura](cobertura.md)
 -   [Metamodelo](metamodelo.md)
 -   [Cosificación](cosificacion.md)
+-   [Diseño y Tecnología](diseno-y-tecnologia.md)
 
 Unidad 3: Diseño estructurado y funcional
 -----------------------------------------
