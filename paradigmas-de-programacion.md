@@ -15,6 +15,7 @@ Conceptos Transversales
 -   [Diferencias entre polimorfismo, abstracción y encapsulamiento](diferencias-entre-polimorfismo--abstraccion-y-encapsulamiento.md)
 -   [Representación de información](representacion-de-informacion.md)
 -   [Estrategias de Evaluación](estrategias-de-evaluacion.md)
+-   [Esquemas de Tipado](esquemas-de-tipado.md)
 
 ### Declaritividad
 
