@@ -22,6 +22,12 @@ Unidad 2: El Proceso de Diseño y las especificaciones
 Unidad 3: Diseño estructurado y funcional
 -----------------------------------------
 
+-   [Efectos y diseño](efectos-y-diseno.md)
+-   [Estado y diseño](estado-y-diseno.md)
+-   [Orden superior y diseño](orden-superior-y-diseno.md)
+-   [Identidad y diseño](identidad-y-diseno.md)
+-   [Pattern Matching, Polimorfismo y diseño](pattern-matching--polimorfismo-y-diseno.md)
+
 Unidad 4: Diseño orientado a objetos
 ------------------------------------
 
