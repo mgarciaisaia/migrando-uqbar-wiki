@@ -30,6 +30,7 @@ Unidad 3: Diseño estructurado y funcional
 -   [Orden superior y diseño](orden-superior-y-diseno.md)
 -   [Identidad y diseño](identidad-y-diseno.md)
 -   [Pattern Matching, Polimorfismo y diseño](pattern-matching--polimorfismo-y-diseno.md)
+-   [Estereotipos de objetos](estereotipos-de-objetos.md)
 
 ### Patrones funcionales en objetos
 
