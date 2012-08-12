@@ -28,7 +28,6 @@ Unidad 3: Diseño estructurado y funcional
 -   [Evaluación diferida y diseño](evaluacion-diferida-y-diseno.md)
 -   [Estado y diseño](estado-y-diseno.md)
 -   [Orden superior y diseño](orden-superior-y-diseno.md)
--   [Identidad y diseño](identidad-y-diseno.md)
 -   [Pattern Matching, Polimorfismo y diseño](pattern-matching--polimorfismo-y-diseno.md)
 -   [Estereotipos de objetos](estereotipos-de-objetos.md)
 -   [Tipo abstracto de datos](tipo-abstracto-de-datos.md)
