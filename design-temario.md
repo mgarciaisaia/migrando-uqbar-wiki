@@ -40,10 +40,10 @@ Unidad 3: Diseño estructurado y funcional
 
 ### Tips de C
 
-`* `[`Preparación` `del` `ambiente` `C`](preparacion-del-ambiente-c.md)
-`* `[`Macros`](macros.md)
-`* `[`Manejo` `de` `memoria`](manejo-de-memoria.md)
-`* `[`Punteros` `a` `función`](punteros-a-funcion.md)
+-   [Preparación del ambiente C](preparacion-del-ambiente-c.md)
+-   [Macros](macros.md)
+-   [Manejo de memoria](manejo-de-memoria.md)
+-   [Punteros a función](punteros-a-funcion.md)
 
 ### Tips de Scala
 
