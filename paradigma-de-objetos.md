@@ -53,4 +53,5 @@ Miscelánea
 ----------
 
 -   [igual o idéntico - = vs ==](igual-o-identico-----vs---.md)
+-   [Máquina\_Virtual](maquina-virtual.md)
 
