@@ -16,6 +16,7 @@ Conceptos Transversales
 -   [Representación de información](representacion-de-informacion.md)
 -   [Estrategias de Evaluación](estrategias-de-evaluacion.md)
 -   [Esquemas de Tipado](esquemas-de-tipado.md)
+-   [Máquina Virtual](maquina-virtual.md)
 
 ### Declaritividad
 
