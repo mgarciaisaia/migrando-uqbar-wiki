@@ -7,6 +7,7 @@ Notas sobre el paradigma funcional
 -   [Currificación](currificacion.md)
 -   [Aplicación Parcial](aplicacion-parcial.md)
 -   [Concepto de función](concepto-de-funcion.md)
+-   [Funciones por Partes](funciones-por-partes.md)
 
 Notas sobre el lenguaje Haskell
 -------------------------------
