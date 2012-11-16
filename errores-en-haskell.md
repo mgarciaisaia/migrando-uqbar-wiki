@@ -3,4 +3,5 @@
 -   [¿Unexpected ';'?](-unexpected-----.md)
 -   [Module Main Already Loaded](module-main-already-loaded.md)
 -   [Hugs.Trex.insertField not in scope](hugs-trex-insertfield-not-in-scope.md)
+-   [cannot construct the infinite type](cannot-construct-the-infinite-type.md)
 
