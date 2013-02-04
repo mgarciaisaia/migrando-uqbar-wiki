@@ -7,6 +7,7 @@ Conceptos generales
 -   [Pattern Matching en Haskell](pattern-matching-en-haskell.md)
 -   [Composición](composicion.md)
 -   [Aplicación Parcial](aplicacion-parcial.md)
+-   [Orden Superior](orden-superior.md)
 -   [Currificación](currificacion.md)
 -   [Funciones por Partes](funciones-por-partes.md)
 
