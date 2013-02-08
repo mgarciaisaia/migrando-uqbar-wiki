@@ -18,7 +18,7 @@ Conceptos Transversales
 -   [Esquemas de Tipado](esquemas-de-tipado.md)
 -   [Máquina Virtual](maquina-virtual.md)
 
-### Declaritividad
+### Declaratividad
 
 -   [Declaratividad](declaratividad.md)
 -   [Declaratividad vs. Expresividad](declaratividad-vs--expresividad.md)
