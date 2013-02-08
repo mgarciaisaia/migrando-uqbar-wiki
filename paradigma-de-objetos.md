@@ -63,4 +63,5 @@ Miscelánea
 
 -   [Máquina\_Virtual](maquina-virtual.md)
 -   [Diagrama de clases](diagrama-de-clases.md)
+-   [Lenguajes](lenguajes.md)
 
