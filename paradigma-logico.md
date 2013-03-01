@@ -32,8 +32,10 @@ Predicados de Orden Superior
 ----------------------------
 
 -   [Orden Superior](orden-superior.md)
+-   [not](paradigma-logico---negacion-not.md)
 -   [forall](paradigma-logico---el-forall.md)
 -   [findall](paradigma-logico---findall.md)
+-   [Cómo hacer predicados de orden superior](como-hacer-predicados-de-orden-superior.md)
 
 Errores y preguntas frecuentes
 ------------------------------
