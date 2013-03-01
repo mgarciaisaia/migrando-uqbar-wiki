@@ -1,6 +1,6 @@
 Este paradigma se basa en los conceptos de lógica matemática, se basa predicados que caracterizan o relacionan a los individuos involucrados y la deducción de las posibles respuestas a una determinada consulta.
 
-Es un paradigma [declarativo](declaratividad.md). No hay [asignaciones destructivas](transparencia-referencial--efecto-de-lado-y-asignacion-destructiva.md), se trabaja con el concepto de [Unificación](unificacion.md)
+Es un paradigma [declarativo](declaratividad.md). No hay [asignaciones destructivas](transparencia-referencial--efecto-de-lado-y-asignacion-destructiva.md), se trabaja con el concepto de unificación.
 
 Las bases del paradigma
 -----------------------
