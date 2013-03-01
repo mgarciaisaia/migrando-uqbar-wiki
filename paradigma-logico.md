@@ -27,7 +27,7 @@ Algunas Características Relevantes
 -   [Múltiples Respuestas](paradigma-logico---multiples-respuestas.md)
 -   [Unificación y Pattern-Matching](unificacion-y-pattern-matching.md)
 -   [Polimorfismo en el Paradigma Lógico](polimorfismo-en-el-paradigma-logico.md)
--   \[\[Recursividad en Logico\]
+-   [Recursividad en Logico](recursividad-en-logico.md)
 
 Predicados de Orden Superior
 ----------------------------
