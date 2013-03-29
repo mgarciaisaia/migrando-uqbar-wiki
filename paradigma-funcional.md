@@ -12,6 +12,7 @@ Conceptos generales
 -   [Currificación](currificacion.md)
 -   [Funciones por Partes](funciones-por-partes.md)
 -   [Lazy Evaluation](estrategias-de-evaluacion-lazy-evaluation.md)
+-   [Recursividad en Haskell](recursividad-en-haskell.md)
 
 Tipos
 -----
@@ -27,13 +28,13 @@ Extras simpáticos
 -   [Definiciones locales (where)](Definiciones_locales_(where) "wikilink")
 -   [Expresiones lambda](expresiones-lambda.md)
 -   [Listas por comprensión](listas-por-comprension.md)
--   [Recursividad en Haskell](recursividad-en-haskell.md)
 
 Para aprender más sobre el lenguaje Haskell
 -------------------------------------------
 
--   <http://en.wikibooks.org/wiki/Haskell>
+-   [1](http://en.wikibooks.org/wiki/Haskell)
 -   [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
+-   [| Funciones que trae por defecto (Prelude)](http://www.haskell.org/ghc/docs/latest/html/libraries/base/Prelude.html)
 
 ### Errores en Haskell
 
