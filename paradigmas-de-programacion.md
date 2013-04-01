@@ -10,6 +10,7 @@ Los paradigmas
 Conceptos Transversales
 -----------------------
 
+-   [Abstracción](abstraccion.md)
 -   [Declaratividad](declaratividad.md)
 -   [Declaratividad vs. Expresividad](declaratividad-vs--expresividad.md)
 -   [Orden Superior](orden-superior.md)
