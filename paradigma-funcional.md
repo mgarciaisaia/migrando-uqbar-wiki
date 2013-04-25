@@ -20,7 +20,7 @@ Tipos
 -   [Tipos de Haskell](tipos-de-haskell.md)
 -   [Inferencia de tipos](inferencia-de-tipos.md)
 -   [Polimorfismo paramétrico y ad-hoc](polimorfismo-parametrico-y-ad-hoc.md)
--   [Cantidad de parámetros de una función en Haskell](cantidad-de-parametros-de-una-funcion-en-haskell.md)
+-   [Cantidad de parámetros de una función en Haskell (Notación point-free)](notacion-point-free.md)
 
 Extras simpáticos
 -----------------
