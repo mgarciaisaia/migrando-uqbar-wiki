@@ -35,6 +35,10 @@ Unidad 5: Modelado de objetos
 -   [Clases vs instancias](clases-vs-instancias.md)
 -   [Double dispatch](double-dispatch.md)
 
+<!-- -->
+
+-   [Groovy vs Scala](groovy-vs-scala.md)
+
 Unidad 6: Modelado de datos
 ---------------------------
 
