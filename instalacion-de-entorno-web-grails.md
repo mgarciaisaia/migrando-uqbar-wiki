@@ -1,9 +1,7 @@
 Pre-requisitos
 --------------
 
-Asumimos que tenés instaladas las herramientas básicas, en particular necesitaremos que tengas una JDK (no sirve que sea JRE).
-
-Para más ayuda, seguí este [link](preparacion-de-un-entorno-de-desarrollo-java.md).
+Asumimos que tenés instaladas las herramientas básicas, en particular necesitaremos que tengas una JDK, no puede ser una JRE, y recomendamos que uses 1.7 ó superior. Para más ayuda, seguí este [link](preparacion-de-un-entorno-de-desarrollo-java.md).
 
 Entorno integrado de desarrollo (IDE)
 -------------------------------------
