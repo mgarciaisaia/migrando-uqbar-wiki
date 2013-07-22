@@ -44,5 +44,5 @@ Consideraciones para un proyecto Grails + Xtend
 Links
 -----
 
--   Volver a [\[\[Instalación\_de\_Entorno\_Web\_Grails](--instalacion-de-entorno-web-grails.md)
+-   Volver a [Instalación\_de\_Entorno\_Web\_Grails](instalacion-de-entorno-web-grails.md)
 
