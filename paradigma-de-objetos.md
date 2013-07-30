@@ -34,6 +34,7 @@ Objetos básicos
 Colecciones
 -----------
 
+-   [Intro a colecciones](intro-a-colecciones.md)
 -   [Sabores de colecciones](sabores-de-colecciones.md)
 -   [Errores comunes con select: y collect:](errores-comunes-con-select--y-collect-.md)
 -   <inject:into:>
