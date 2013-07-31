@@ -9,6 +9,12 @@ Unidad 1
 Unidad 2
 --------
 
+### Entorno
+
+-   [Configuración de Arena](configuracion-de-arena.md)
+
+### Artículos
+
 -   [Formas de vincular una vista con el modelo de dominio](formas-de-vincular-una-vista-con-el-modelo-de-dominio.md)
 -   [Ejemplos de Binding entre vista y modelo](ejemplos-de-binding-entre-vista-y-modelo.md)
 -   [JFace: Controles y binding](jface--controles-y-binding.md)
