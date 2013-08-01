@@ -30,7 +30,8 @@ Extras simpáticos
 -   [Expresiones lambda](expresiones-lambda.md)
 -   [Listas por comprensión](listas-por-comprension.md)
 
-### Errores comunes
+Errores comunes
+---------------
 
 -   [Errores comunes al comenzar a trabajar con Haskell](errores-comunes-al-comenzar-a-trabajar-con-haskell.md)
 -   [Cuándo usar paréntesis](cuando-usar-parentesis.md)
