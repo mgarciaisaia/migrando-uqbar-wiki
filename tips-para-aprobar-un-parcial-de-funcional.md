@@ -1,6 +1,8 @@
 Lo que tiene que estar seguro para aprobar el parcial de funcional es [Orden Superior](orden-superior.md), [Aplicación Parcial](aplicacion-parcial.md) y [Composición](composicion.md).
 
-Algunas consideraciones que te llevan para el lado de la aprobación: -Entender que cuando se aplica una función parcialmente lo que se obtiene es otra función con n - m parámetros (siendo n los parámetros de tu función original y m los que le aplicaste).
+Algunas consideraciones que te llevan para el lado de la aprobación:
+
+-Entender que cuando se aplica una función parcialmente lo que se obtiene es otra función con n - m parámetros (siendo n los parámetros de tu función original y m los que le aplicaste).
 
 -Entender bien la diferencia entre aplicar funciones y componer funciones entre sí (nunca intentar componer cosas que no sean funciones o que al no estar suficientemente aplicadas esperen más de un parámetro)
 
