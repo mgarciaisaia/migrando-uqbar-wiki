@@ -36,9 +36,11 @@ Colecciones
 
 -   [Intro a colecciones](intro-a-colecciones.md)
 -   [Sabores de colecciones](sabores-de-colecciones.md)
+-   [Mensajes de colecciones](mensajes-de-colecciones.md)
 -   [Errores comunes con select: y collect:](errores-comunes-con-select--y-collect-.md)
 -   <inject:into:>
 -   [Arrays literales en Smalltalk](arrays-literales-en-smalltalk.md)
+-   [Diccionarios](diccionarios.md)
 
 Cosas que pueden servir para pensar en cómo modelar un enunciado
 ----------------------------------------------------------------
