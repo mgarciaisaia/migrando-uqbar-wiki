@@ -36,7 +36,11 @@ Unidad 5: Modelado de objetos
 
 ### Tecnologías
 
--   [Preparacion de un entorno de desarrollo Java](preparacion-de-un-entorno-de-desarrollo-java.md) + [Amigandonos con el entorno de desarrollo](amigandonos-con-el-entorno-de-desarrollo.md)
+-   [Preparacion de un entorno de desarrollo Java](preparacion-de-un-entorno-de-desarrollo-java.md)
+-   [Preparacion de un entorno de desarrollo Scala](preparacion-de-un-entorno-de-desarrollo-scala.md)
+-   [Preparacion de un entorno de desarrollo Groovy](preparacion-de-un-entorno-de-desarrollo-groovy.md)
+-   [Preparacion de un entorno de desarrollo Xtend](preparacion-de-un-entorno-de-desarrollo-xtend.md)
+-   **IMPORTANTE:** [Amigandonos con el entorno de desarrollo](amigandonos-con-el-entorno-de-desarrollo.md)
 
 Una pregunta que muchas veces en la materia diseño es: ¿Que lenguaje uso? Acá van algunas comparativas:
 
