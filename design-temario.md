@@ -53,6 +53,7 @@ Unidad 7: Introducción al diseño de arquitectura
 ------------------------------------------------
 
 -   [Patrones de comunicación entre componentes](patrones-de-comunicacion-entre-componentes.md)
+-   [Framework y Librería](framework-y-libreria.md)
 
 Unidad 8: Validación del Diseño
 -------------------------------
