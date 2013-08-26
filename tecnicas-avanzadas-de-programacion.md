@@ -17,7 +17,7 @@ Técnicas Avanzadas de Programación - Contenidos actuales
 
 -   [Metaprogramación](metaprogramacion.md)
 -   [Reflection: Introspection y Self-modification](reflection.md)
--   [Open classes](open-classes.md)
+-   [Uso de features de lenguajes dinámicos](uso-de-features-de-lenguajes-dinamicos.md)
 
 ### Declaratividad y DSLs
 
@@ -25,7 +25,6 @@ Técnicas Avanzadas de Programación - Contenidos actuales
 -   [DSL](dsl.md)
 -   [Builder](builder.md)
 -   [Syntax Sugar](syntax-sugar.md)
--   [Uso de features de lenguajes dinámicos](uso-de-features-de-lenguajes-dinamicos.md)
 -   [Tiempo de creación vs tiempo de uso](tiempo-de-creacion-vs-tiempo-de-uso.md)
 
 Técnicas Avanzadas de Programación - Contenidos heredados
