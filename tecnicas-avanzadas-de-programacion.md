@@ -16,8 +16,7 @@ Técnicas Avanzadas de Programación - Contenidos actuales
 ### Metaprogramación
 
 -   [Metaprogramación](metaprogramacion.md)
--   [Reflection](reflection.md)
--   [Self modification](self-modification.md)
+-   [Reflection: Introspection y Self-modification](reflection.md)
 -   [Open classes](open-classes.md)
 
 ### Declaratividad y DSLs
