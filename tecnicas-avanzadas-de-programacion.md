@@ -18,6 +18,7 @@ Técnicas Avanzadas de Programación - Contenidos actuales
 -   [Metaprogramación](metaprogramacion.md)
 -   [Reflection: Introspection y Self-modification](reflection.md)
 -   [Uso de features de lenguajes dinámicos](uso-de-features-de-lenguajes-dinamicos.md)
+-   [Method missing](method-missing.md)
 
 ### Declaratividad y DSLs
 
