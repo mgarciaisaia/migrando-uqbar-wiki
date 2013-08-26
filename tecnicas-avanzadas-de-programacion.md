@@ -7,7 +7,6 @@ Técnicas Avanzadas de Programación - Contenidos actuales
 -   [Mixins](mixins.md)
 -   [Bloques como forma de modelar comportamiento](bloques-como-forma-de-modelar-comportamiento.md)
 -   [Modelar comportamiento como objetos](modelar-comportamiento-como-objetos.md)
--   [Uso de features de lenguajes dinámicos](uso-de-features-de-lenguajes-dinamicos.md)
 
 ### Tipado dinámico vs estático en objetos
 
@@ -27,6 +26,7 @@ Técnicas Avanzadas de Programación - Contenidos actuales
 -   [DSL](dsl.md)
 -   [Builder](builder.md)
 -   [Syntax Sugar](syntax-sugar.md)
+-   [Uso de features de lenguajes dinámicos](uso-de-features-de-lenguajes-dinamicos.md)
 -   [Tiempo de creación vs tiempo de uso](tiempo-de-creacion-vs-tiempo-de-uso.md)
 
 Técnicas Avanzadas de Programación - Contenidos heredados
