@@ -24,7 +24,6 @@ Técnicas Avanzadas de Programación - Contenidos actuales
 -   [Declaratividad](declaratividad.md)
 -   [DSL](dsl.md)
 -   [Builder](builder.md)
--   [Syntax Sugar](syntax-sugar.md)
 -   [Tiempo de creación vs tiempo de uso](tiempo-de-creacion-vs-tiempo-de-uso.md)
 
 Técnicas Avanzadas de Programación - Contenidos heredados
