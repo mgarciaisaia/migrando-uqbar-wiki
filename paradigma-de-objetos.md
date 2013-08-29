@@ -6,20 +6,20 @@ Teoría
 ------
 
 -   [Mensajes y métodos](mensajes-y-metodos.md)
--   [Variables](variables.md)
+-   [Referencias](variables.md)
 -   [Encapsulamiento](encapsulamiento.md)
 -   [Polimorfismo](polimorfismo.md)
 -   [Modelando objetos - Responsabilidades y delegación](modelando-objetos---responsabilidades-y-delegacion.md)
+-   [Manejo de errores](manejo-de-errores.md)
+-   [Prototipado vs Clases](prototipado-vs-clases.md)
 -   [Clases](clases.md)
 -   [Herencia](herencia.md)
 -   [Method lookup](method-lookup.md)
 -   [Redefinición](redefinicion.md)
 -   [Variables y métodos de clase](variables-y-metodos-de-clase.md)
--   [Manejo de errores](manejo-de-errores.md)
--   [Prototipado vs Clases](prototipado-vs-clases.md)
 -   [igual o idéntico - = vs ==](igual-o-identico-----vs---.md)
 -   [Composición (OOP)](Composición_(OOP) "wikilink")
--   [Garbage Collector](garbage-collector.md)
+-   [Garbage collector](garbage-collector.md)
 
 Sintaxis
 --------
