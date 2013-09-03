@@ -136,7 +136,7 @@ La configuración general de Maven se encuentra en el archivo . Hay varios lugar
 
 Es posible que la primera vez que agregamos una configuración, este archivo no exista. En ese caso se debe crearlo.
 
-Heramientas adicionales:
+#### Heramientas adicionales
 
 -   [Configuración de Maven para poder utilizar las herramientas de Uqbar](configuracion-de-maven-para-poder-utilizar-las-herramientas-de-uqbar.md)
 
