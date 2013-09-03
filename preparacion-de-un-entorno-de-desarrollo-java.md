@@ -132,35 +132,13 @@ Corroboramos que podemos usar Maven. El output sería algo parecido a ésto:
 
 ### Configuración de Maven
 
-A la configuración original de Maven debemos indicarle cuáles son los repositorios de donde bajar los artefactos de Arena. Para poder realizar esto es necesario crear el archivo ~/.m2/settings.xml. Este archivo se encuentra en el directorio del usuario, esta ruta cambia dependiendo de cada sistema operativo. Por ejemplo en Linux, si el usuario es pablo, la ruta sería /home/pablo/.m2/settings.xml. Si trabajan con Windows, instalado en el drive C: y el nombre del usuario es Fernando, el directorio será C:\\Users\\Fernando\\.m2\\settings.xml
+La configuración general de Maven se encuentra en el archivo . Hay varios lugares donde se puede ubicar este archivo de configuración, habitualmente utilizaremos el que se encuentra en el directorio del usuario, en la ruta . La ruta exacta dependiendo de cada sistema operativo. Por ejemplo en Linux, si el usuario es pablo, la ruta sería . Si trabajan con Windows, instalado en el drive C: y el nombre del usuario es Fernando, el directorio será .
 
-El contenido de este archivo debería quedar así:
+Es posible que la primera vez que agregamos una configuración, este archivo no exista. En ese caso se debe crearlo.
 
-` `<settings xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
-        http://maven.apache.org/xsd/settings-1.0.0.xsd">
-`  `<profiles>
-`        `<profile>
-`              `<id>`uqbar-wiki`</id>
-`              `<repositories>
-`                    `<repository>
-`                        `<id>`uqbar-wiki.org-releases`</id>
-`                        `<name>`uqbar-wiki.org-releases`</name>
-`                        `<url>[`http://uqbar-wiki.org/mvn/releases`](http://uqbar-wiki.org/mvn/releases)</url>
-`                    `</repository>
-`                    `<repository>
-`                        `<snapshots/>
-`                        `<id>`uqbar-wiki.org-snapshots`</id>
-`                        `<name>`uqbar-wiki.org-snapshots`</name>
-`                        `<url>[`http://uqbar-wiki.org/mvn/snapshots`](http://uqbar-wiki.org/mvn/snapshots)</url>
-`                   `</repository>
-`              `</repositories>
-`        `</profile>
-`  `</profiles>
-`  `<activeProfiles>
-`       `<activeProfile>`uqbar-wiki`</activeProfile>
-`  `</activeProfiles>
-` `</settings>
+Heramientas adicionales:
+
+-   [Configuración de Maven para poder utilizar las herramientas de Uqbar](configuracion-de-maven-para-poder-utilizar-las-herramientas-de-uqbar.md)
 
 ### Plugin para Eclipse
 
