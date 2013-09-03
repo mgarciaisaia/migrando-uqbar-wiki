@@ -1,7 +1,6 @@
-<div style="float:right">
-\_\_TOC\_\_
+| | \_\_TOC\_\_ |
+|---------------|
 
-</div>
 Para realizar aplicaciones de complejidad mediana-grande en Java, es recomendable contar con un entorno de trabajo que contemple al menos:
 
 -   Una herramienta de versionado de fuentes
