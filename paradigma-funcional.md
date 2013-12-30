@@ -29,6 +29,7 @@ Extras simpáticos
 -   [Definiciones locales (where)](Definiciones_locales_(where) "wikilink")
 -   [Expresiones lambda](expresiones-lambda.md)
 -   [Listas por comprensión](listas-por-comprension.md)
+-   [Typeclasses](typeclasses.md)
 
 Errores comunes
 ---------------
