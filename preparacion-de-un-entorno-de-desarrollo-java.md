@@ -79,6 +79,10 @@ Filtrar en el menú por la palabra "spell" y desactivar la corrección ortográf
 
 También conviene desactivar el warning default de clases serializables que no definan un identificador de versión: Window &gt; Preferences, filtrar por "Serializable", solapa Java / Compiler / "Errors/Warnings", "Potential programming problems", y se setea el valor de "Serializable class without serialVersionUID" a Ignore. Aplicar cambios.
 
+### Configurar un JDK en eclipse
+
+Si se bajaron una versión especifica de Java, un JDK, van a querer que el eclipse lo use para compilar, etc. Para eso, desde el eclipse deben ir a - Window -&gt; Preferences - En el arbol de la izquierda, "Java -&gt; Installed JRE". - En el panel de la derecha, agregan un nuevo JDK, con el botón "Add" - Ahí siguen los pasos default, y en el primer campo "JRE Home", apuntan al directorio del JDK que descomprimieron. - Luego se aseguran de checkearlo como el "default" en la tabla.
+
 ### Documentación
 
 -   [Página principal de Eclipse](http://www.eclipse.org/)
