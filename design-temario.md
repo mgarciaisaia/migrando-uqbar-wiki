@@ -42,6 +42,7 @@ Unidad 5: Modelado de objetos
 -   [Preparacion de un entorno de desarrollo Groovy](preparacion-de-un-entorno-de-desarrollo-groovy.md)
 -   [Preparacion de un entorno de desarrollo Xtend](preparacion-de-un-entorno-de-desarrollo-xtend.md)
 -   **IMPORTANTE:** [Amigandonos con el entorno de desarrollo](amigandonos-con-el-entorno-de-desarrollo.md)
+-   [Configuraciones generales para cualquier Eclipse](configuraciones-generales-para-cualquier-eclipse.md)
 
 Una pregunta que muchas veces en la materia diseño es: ¿Que lenguaje uso? Acá van algunas comparativas:
 
