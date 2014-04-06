@@ -1,4 +1,4 @@
-En la versión 8 del lenguaje [Java](java.md) se introduce una herramienta fundamental para cualquier lenguaje de programación orientado a objetos y que era una de sus principales falencias: las [expresiones lambdas](expresiones-lambdas.md), también conocidas como [bloques](bloques.md) de código, closures, o funciones anónimas.
+En la versión 8 del lenguaje [Java](java.md) se introduce una herramienta fundamental para cualquier lenguaje de programación orientado a objetos y que era una de sus principales falencias: las [expresiones lambda](expresiones-lambda.md), también conocidas como [bloques](bloques.md) de código, closures, o funciones anónimas.
 
 Con ellas podemos implementar fácilmente mensajes de alto nivel de abstracción, que reciben o devuelven bloques de código y se comportan de forma parecida a las funciones de [orden superior](orden-superior.md) que podemos encontrar en el [Paradigma Funcional](paradigma-funcional.md).
 
