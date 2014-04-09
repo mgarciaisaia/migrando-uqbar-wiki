@@ -33,6 +33,7 @@ Unidad 5: Modelado de objetos
 -   [Ciclo de vida de un objeto](ciclo-de-vida-de-un-objeto.md)
 -   [Template method](template-method.md)
 -   [Double dispatch](double-dispatch.md)
+-   [Libreria y Framework](libreria-y-framework.md)
 
 ### Tecnologías
 
