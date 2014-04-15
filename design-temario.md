@@ -33,7 +33,6 @@ Unidad 5: Modelado de objetos
 -   [Ciclo de vida de un objeto](ciclo-de-vida-de-un-objeto.md)
 -   [Template method](template-method.md)
 -   [Double dispatch](double-dispatch.md)
--   [Libreria y Framework](libreria-y-framework.md)
 
 ### Tecnologías
 
@@ -57,7 +56,7 @@ Unidad 7: Introducción al diseño de arquitectura
 ------------------------------------------------
 
 -   [Patrones de comunicación entre componentes](patrones-de-comunicacion-entre-componentes.md)
--   [Framework y Librería](framework-y-libreria.md)
+-   [Libreria y Framework](libreria-y-framework.md)
 
 Unidad 8: Validación del Diseño
 -------------------------------
