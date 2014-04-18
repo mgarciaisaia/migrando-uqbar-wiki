@@ -95,7 +95,7 @@ Pueden instalar el plugin de svn para eclipse basándose en [este tutorial](http
 Maven
 -----
 
-Instalar según la [Guía de Instalación de Maven](guia-de-instalacion-de-maven.md)
+Instalar según la [Guía de Instalación de Maven](guia-de-instalacion-de-maven.md) (configurando el settings como se explica [aquí](http://uqbar-wiki.org/index.php?title=Configuraci%C3%B3n_de_Maven_para_poder_utilizar_las_herramientas_de_Uqbar))
 
 Links útiles
 ------------
