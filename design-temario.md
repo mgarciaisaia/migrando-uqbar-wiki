@@ -29,7 +29,7 @@ Unidad 5: Modelado de objetos
 -   [Cosificación](cosificacion.md)
 -   [Diseño y Sistemas de Tipos](diseno-y-sistemas-de-tipos.md)
 -   [Manejo de Errores](manejo-de-errores.md)
--   [Clase abstracta vs interfaces](clase-abstracta-vs-interfaces.md)
+-   [Clase abstracta vs interfaz](clase-abstracta-vs-interfaz.md)
 -   [Clases vs instancias](clases-vs-instancias.md)
 -   [Ciclo de vida de un objeto](ciclo-de-vida-de-un-objeto.md)
 -   [Template method](template-method.md)
