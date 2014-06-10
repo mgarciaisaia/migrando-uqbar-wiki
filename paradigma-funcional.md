@@ -21,7 +21,7 @@ Tipos
 -   [Typeclasses](typeclasses.md)
 -   [Inferencia de tipos](inferencia-de-tipos.md)
 -   [Polimorfismo paramétrico y ad-hoc](polimorfismo-parametrico-y-ad-hoc.md)
--   [Cantidad de parámetros de una función en Haskell (Notación point-free)](notacion-point-free.md)
+-   [Notación point-free](notacion-point-free.md): Cuántos parámetros espera una función?
 -   [Data: Definiendo nuestros tipos en Haskell](data--definiendo-nuestros-tipos-en-haskell.md)
 
 Extras simpáticos
