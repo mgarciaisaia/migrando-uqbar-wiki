@@ -19,6 +19,7 @@ Teoría
 -   [Redefinición](redefinicion.md)
 -   [Variables y métodos de clase](variables-y-metodos-de-clase.md)
 -   [igual o idéntico - = vs ==](igual-o-identico-----vs---.md)
+-   [Inmutabilidad](inmutabilidad.md)
 -   [Composición (OOP)](Composición_(OOP) "wikilink")
 -   [Garbage collector](garbage-collector.md)
 
