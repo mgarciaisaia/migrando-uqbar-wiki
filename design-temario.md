@@ -52,6 +52,8 @@ Unidad 5: Modelado de objetos
 -   **IMPORTANTE:** [Amigandonos con el entorno de desarrollo](amigandonos-con-el-entorno-de-desarrollo.md)
 -   [Configuraciones generales para cualquier Eclipse](configuraciones-generales-para-cualquier-eclipse.md)
 -   [Guía de Instalación de Maven](guia-de-instalacion-de-maven.md)
+-   [Guía de Instalación de Ruby](guia-de-instalacion-de-ruby.md)
+-   [Guía de Instalación de Rails](guia-de-instalacion-de-rails.md)
 
 Una pregunta que muchas veces en la materia diseño es: ¿Que lenguaje uso? Acá van algunas comparativas:
 
