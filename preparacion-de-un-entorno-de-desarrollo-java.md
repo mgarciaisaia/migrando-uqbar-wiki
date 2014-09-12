@@ -91,6 +91,10 @@ Maven
 
 Instalar según la [Guía de Instalación de Maven](guia-de-instalacion-de-maven.md) (configurando el settings como se explica [aquí](http://uqbar-wiki.org/index.php?title=Configuraci%C3%B3n_de_Maven_para_poder_utilizar_las_herramientas_de_Uqbar))
 
+### Plugin de Maven
+
+Ir a Eclipse &gt; Marketplace, buscar "Maven" y seleccionar el Maven integration for Eclipse más adecuado a tu entorno (depende de si instalaste Java EE, Java, y qué versión de Eclipse)
+
 Links útiles
 ------------
 
