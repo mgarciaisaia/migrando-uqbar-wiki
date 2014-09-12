@@ -93,7 +93,7 @@ Instalar según la [Guía de Instalación de Maven](guia-de-instalacion-de-maven
 
 ### Plugin de Maven
 
-Ir a Eclipse &gt; Marketplace, buscar "Maven" y seleccionar el Maven integration for Eclipse más adecuado a tu entorno (depende de si instalaste Java EE, Java, y qué versión de Eclipse)
+Ir a Eclipse &gt; Marketplace, buscar "Maven" y seleccionar el Maven integration for Eclipse más adecuado a tu entorno (depende de si instalaste Java EE, Java, y qué versión de Eclipse). Si ya lo tenés instalado vas a ver en gris el botón "Install".
 
 Links útiles
 ------------
