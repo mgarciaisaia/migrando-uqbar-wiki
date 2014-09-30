@@ -80,6 +80,8 @@ Cosas que pueden servir para el TP
 -   [Tutorial de Squeak y Pharo](tutorial-de-squeak-y-pharo.md)
 -   [Cómo crear una subclase en Squeak](como-crear-una-subclase-en-squeak.md)
 -   [Testing](testing.md)
+-   [Pharo para programadores Ozonosos](pharo-para-programadores-ozonosos.md)
+-   [Manual de Ozono](http://www.pdep.com.ar/Home/software/software-pharo/object-browser-ultima-version/ObjectBrowser-manual.pdf?attredirects=0)
 
 Miscelánea
 ----------
