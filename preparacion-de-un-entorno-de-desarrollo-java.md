@@ -1,99 +1,83 @@
 | | \_\_TOC\_\_ |
 |---------------|
 
-Para realizar aplicaciones de complejidad mediana-grande en Java, es recomendable contar con un entorno de trabajo que contemple al menos:
+Al trabajar en Java es recomendable contar con un entorno de trabajo que contemple al menos:
 
 -   Una herramienta de versionado de fuentes
 -   Una herramienta de manejo de dependencias
 -   Un mecanismo para automatizar los procesos administrativos del desarrollo (test, release, deploy, etc)
 -   Un entorno de programación que permita:
-    -   Ayudas a la detección temprana de errores, autocompleción, herramientas para navegar y buscar ágilmente dentro del código, etc.
+    -   Ayudar a la detección temprana de errores, autocompletado, herramientas para navegar y buscar ágilmente dentro del código, etc.
     -   Soporte para la realización de refactors automatizados
-    -   Integración con la mayor cantidad posible de las demás herramientas que utilizamos.
 
-En este artículo se propone una configuración de entorno de trabajo que intenta cumplir con los anteriores objetivos. Las herramientas seleccionadas para eso son:
+A continuación explicaremos cómo instalar un entorno de desarrollo para Java, en su versión 8, el cual incluirá los siguientes elementos:
 
--   **Java Development Kit**
--   **Eclipse** como entorno integrado de desarrollo
--   **Svn** como repositorio de fuentes y herramienta de versionado
--   **Maven** como herramienta para manejar dependencias y automatizar diversos procesos administrativos.
+-   El JDK8: Las biblioteas estándar y herramientras de construccion para la tecnologia Java y derivadas
+-   Eclipse: Un entorno integrado de desarrollo (IDE), que nos servirá para codificar, compilar, probar, refactorizar nuestro software.
+-   Maven: Una herramientas de (entre otras cosas) manejo de dependencias
 
-Adicionalmente se instalarán extensiones al entorno de desarrollo eclipse para integrarlo con svn y maven.
+Nota: además de lo descripto acá, será necesario contar con una herramienta de control de versiones, como por ejemplo git o svn.
 
-JDK (Java Development Kit)
---------------------------
+Instalación del JDK (Java Development Kit)
+------------------------------------------
 
-Contiene un compilador y una máquina virtual (el runtime) que traduce a código de máquina el código intermedio que genera el compilador (.java → COMPILADOR (javac.exe) → .class → VM (java.exe) → ejecutable final).
+El JDK8 contiene un compilador y una máquina virtual (el runtime) que traduce a código de máquina el código intermedio que genera el compilador (.java → COMPILADOR (javac) → .class → VM (java) → ejecutable final).
 
-Al tiempo de escribir este artículo la última versión estable es 1.7. Para el propósito aquí descripto es recomendable instalar la *Standard Edition*.
+Para instalarlo, debemos descargarlo de <http://www.oracle.com/technetwork/java/javase/downloads/index.html>. Luego, procederemos a descomprimirlo.
 
-### Download e instalación base
+Los pasos siguientes dependen del sistema operativo. En Windows, el proceso esta guiado mayormente por el instalador. En Mac pueden utilizar homebrew.
 
-A continuación se detallan los pasos básicos de instalación según el sistema operativo que se esté utilizando. Luego de realizar este paso inicial se deberá pasar a la configuración del entorno.
+En Ubuntu, Mint y Linux similares debemos realizar lo siguiente:
 
-Este es el link de [downloads](http://www.oracle.com/technetwork/java/javase/downloads/index.html).
+-   Pararse en el directorio donde se lo descomprimió.
+-   sudo mv jdk1.8.0 /usr/lib/jvm/
+-   sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk1.8.0/jre/bin/java 500
+-   sudo update-alternatives --config java. Elegir la opcion del jdk8
 
-Desde ahí buscan el Latest Release y se descargan el JDK del sistema operativo que esté instalado en sus máquinas.
+Con esto, el JDK ya deberia estar instalado. Probarlo desde una terminal tipeando lo siguiente:
 
-Para más detalles adicionales a los que se encuentran en esta página, se puede consultar el [manual de instalación de sun](http://java.sun.com/javase/6/webnotes/install/index.html).
+` java -version`
 
-##### Ubuntu
+(deberia mostrar 1.8.0)
 
-Para instalarlo en Ubuntu se puede hacer:
+Eclipse Luna
+------------
 
-`sudo apt-get install default-jdk`
+La instalación del eclipse es muy sencilla: hay que bajar la versión el Eclipse IDE for Java Developers que corresponda a su sistema operativo desde <http://www.eclipse.org/downloads/> y descomprimirlo en su disco rígido. Posiblemente deseen crear un acceso directo para apuntar al ejecutable.
 
-Eso instalará el jdk default (para Ubuntu es *OpenJDK de la versión que se bajaron*), si se desea instalar en cambio el JDK de Sun se puede hacer:
+Recuerden después configurarlo adecuadamente: \[Configuraciones generales para cualquier Eclipse\]
 
-`sudo apt-get install sun-java6-jdk sun-java6-jre`
+Problema de Eclipse con Ubuntu 13.10
+------------------------------------
 
-##### Otros sistemas operativos
+Si instalaste Eclipse en Ubuntu 13.10 y utilizás el escritorio Unity, es posible que tengas problemas a la hora de visualizar los menús (file, edit, view, etc). Para arreglar este problema, hay que editar a mano unos archivos tal como se indica en esta [solución](http://askubuntu.com/questions/364310/eclipse-kepler-runs-weird).
 
-Para otros sistemas operativos se puede bajar el instalable de: <http://java.sun.com/javase/downloads/> .
+Hay que buscar los archivos eclipse.desktop en las rutas /usr/share/applications y ~/.local/share/applications/ y luego editarlos con cualquier editor de texto (nano, gedit, etc). Para esto, debemos primero pararnos en cada ruta, utilizando el comando cd.
 
-[Este tutorial](http://www.it.uc3m.es/tlp/guia/guiaWinXP.html) indica cómo instalarlo en Windows XP (en especial pasos 1 a 3).
+-   cd /usr/share/applications
 
-### Documentación
+Luego, debemos utilizar un editor de texto para cambiar la línea que queremos cambiar.
 
--   [Java Tutorials](http://java.sun.com/docs/books/tutorial/)
--   [Javadoc reference guide](http://java.sun.com/j2se/1.4.2/docs/tooldocs/windows/javadoc.html)
--   [Writing comment tips](http://java.sun.com/j2se/javadoc/writingdoccomments/index.html)
+-   sudo nano eclipse.desktop
 
-Eclipse
--------
+o bien
 
-La instalación del eclipse es muy sencilla: hay que bajar el que corresponda a su sistema operativo desde <http://www.eclipse.org/downloads/> y descomprimirlo en su disco rígido. Posiblemente deseen crear un acceso directo para apuntar al ejecutable.
+-   sudo gedit eclipse.desktop
 
-A los efectos de los objetivos planteados en este artículo, se recomienda elegir la versión denominada "Eclipse IDE for Java EE Developers".
+o bien sudo "el\_editor\_de\_texto\_que\_me\_guste" eclipse.desktop y reemplazamos la línea que comienza con Exec por:
 
-  
-Esa versión pesa bastante. Si no van a utilizar las herramientas de programación web es posible utilizar la versión más liviana "Eclipse IDE for Java Developers".
+-   Exec=env UBUNTU\_MENUPROXY= /ruta/al/eclipse/eclipse
 
-### Configuraciones adicionales
+Luego repetimos los pasos anteriores para el eclipse.desktop que se encuentra en la ruta ~/.local/share/applications/.
 
-Chequeá las [Configuraciones generales para cualquier Eclipse](configuraciones-generales-para-cualquier-eclipse.md)
-
-### Configurar un JDK en eclipse
-
-Si se bajaron una versión especifica de Java, un JDK, van a querer que el eclipse lo use para compilar, etc. Para eso, desde el eclipse deben ir a - Window -&gt; Preferences - En el arbol de la izquierda, "Java -&gt; Installed JRE". - En el panel de la derecha, agregan un nuevo JDK, con el botón "Add" - Ahí siguen los pasos default, y en el primer campo "JRE Home", apuntan al directorio del JDK que descomprimieron. - Luego se aseguran de checkearlo como el "default" en la tabla.
-
-### Documentación
-
--   [Página principal de Eclipse](http://www.eclipse.org/)
-
-Svn
----
-
-Pueden instalar el plugin de svn para eclipse basándose en [este tutorial](http://subclipse.tigris.org/servlets/ProjectProcess?pageID=p4wYuA).
+Reiniciamos el eclipse y los menús deberían poder visualizarse correctamente.
 
 Maven
 -----
 
-Instalar según la [Guía de Instalación de Maven](guia-de-instalacion-de-maven.md) (configurando el settings como se explica [aquí](http://uqbar-wiki.org/index.php?title=Configuraci%C3%B3n_de_Maven_para_poder_utilizar_las_herramientas_de_Uqbar))
+Instalen Maven según la [Guía de Instalación de Maven](guia-de-instalacion-de-maven.md)
 
-### Plugin de Maven
-
-Ir a Eclipse &gt; Marketplace, buscar "Maven" y seleccionar el Maven integration for Eclipse más adecuado a tu entorno (depende de si instalaste Java EE, Java, y qué versión de Eclipse). Si ya lo tenés instalado vas a ver en gris el botón "Install".
+Y cuando creemos un proyecto, recordá configurar el compilador para que emplee Java 8. Ver <http://maven.apache.org/plugins/maven-compiler-plugin/examples/set-compiler-source-and-target.html>
 
 Links útiles
 ------------
