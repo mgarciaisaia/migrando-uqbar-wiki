@@ -1,15 +1,6 @@
 | | \_\_TOC\_\_ |
 |---------------|
 
-Al trabajar en Java es recomendable contar con un entorno de trabajo que contemple al menos:
-
--   Una herramienta de versionado de fuentes
--   Una herramienta de manejo de dependencias
--   Un mecanismo para automatizar los procesos administrativos del desarrollo (test, release, deploy, etc)
--   Un entorno de programación que permita:
-    -   Ayudar a la detección temprana de errores, autocompletado, herramientas para navegar y buscar ágilmente dentro del código, etc.
-    -   Soporte para la realización de refactors automatizados
-
 A continuación explicaremos cómo instalar un entorno de desarrollo para Java, en su versión 8, el cual incluirá los siguientes elementos:
 
 -   El JDK8: Las biblioteas estándar y herramientras de construccion para la tecnologia Java y derivadas
