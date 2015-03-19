@@ -3,7 +3,7 @@
 
 A continuación explicaremos cómo instalar un entorno de desarrollo para Java, en su versión 8, el cual incluirá los siguientes elementos:
 
--   El JDK8: Las biblioteas estándar y herramientras de construccion para la tecnologia Java y derivadas
+-   El JDK8: Las bibliotecas estándar y herramientras de construccion para la tecnologia Java y derivadas
 -   Eclipse: Un entorno integrado de desarrollo (IDE), que nos servirá para codificar, compilar, probar, refactorizar nuestro software.
 -   Maven: Una herramientas de (entre otras cosas) manejo de dependencias
 
