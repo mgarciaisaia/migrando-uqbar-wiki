@@ -54,7 +54,7 @@ Si instalaste Eclipse en Ubuntu 13.10 y utilizás el escritorio Unity, es posibl
 
 Hay que buscar los archivos eclipse.desktop en las rutas /usr/share/applications y ~/.local/share/applications/ y luego editarlos con cualquier editor de texto (nano, gedit, etc). Para esto, debemos primero pararnos en cada ruta, utilizando el comando cd.
 
--   cd /usr/share/applications
+-   `cd` `/usr/share/applications`
 
 Luego, debemos utilizar un editor de texto para cambiar la línea que queremos cambiar.
 
