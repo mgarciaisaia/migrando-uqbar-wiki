@@ -40,8 +40,8 @@ Y definirlo como el default haciendo
 
 `$ sudo update-java-alternatives -s java-8-oracle `
 
-Entorno de Desarrollo: Eclipse
-------------------------------
+Eclipse
+-------
 
 La instalación del eclipse es muy sencilla: hay que bajar la versión el Eclipse IDE for Java Developers que corresponda a su sistema operativo desde <http://www.eclipse.org/downloads/> y descomprimirlo en su disco rígido. Posiblemente deseen crear un acceso directo para apuntar al ejecutable.
 
