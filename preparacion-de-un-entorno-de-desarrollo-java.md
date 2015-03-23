@@ -21,8 +21,8 @@ Los pasos siguientes dependen del sistema operativo. En Windows, el proceso esta
 En Ubuntu, Mint y Linux similares debemos realizar lo siguiente (1):
 
 -   Pararse en el directorio donde se lo descomprimió.
--   [codesudo](code.md) mv jdk1.8.0 /usr/lib/jvm/jdk1.8.0/[/code](-code.md) (si descargaste la versión JDK 1.8.0\_40 el nombre del directorio será jdk1.8.0\_40, y así sucesivamente)
--   sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk1.8.0/jre/bin/java 500
+-   `sudo` `mv` `jdk1.8.0` `/usr/lib/jvm/jdk1.8.0/` (si descargaste la versión JDK 1.8.0\_40 el nombre del directorio será jdk1.8.0\_40, y así sucesivamente)
+-   `sudo` `update-alternatives` `--install` `/usr/bin/java` `java` `/usr/lib/jvm/jdk1.8.0/jre/bin/java` `500`
 
 Con esto, el JDK ya deberia estar instalado. Probarlo desde una terminal tipeando lo siguiente:
 
@@ -32,16 +32,20 @@ Con esto, el JDK ya deberia estar instalado. Probarlo desde una terminal tipeand
 
 (1) Otra opción en Ubuntu, Mint y similares es bajarlo mediante apt-get:
 
-`# sudo add-apt-repository ppa:webupd8team/java`
-`# sudo apt-get update`
-`# sudo apt-get install oracle-java8-installer`
+`$ sudo add-apt-repository ppa:webupd8team/java`
+`$ sudo apt-get update`
+`$ sudo apt-get install oracle-java8-installer`
+
+Y definirlo como el default haciendo
+
+`$ sudo update-java-alternatives -s java-8-oracle `
 
 Eclipse Luna
 ------------
 
 La instalación del eclipse es muy sencilla: hay que bajar la versión el Eclipse IDE for Java Developers que corresponda a su sistema operativo desde <http://www.eclipse.org/downloads/> y descomprimirlo en su disco rígido. Posiblemente deseen crear un acceso directo para apuntar al ejecutable.
 
-Recuerden después configurarlo adecuadamente: [\[Configuraciones generales para cualquier Eclipse](-configuraciones-generales-para-cualquier-eclipse.md)\]
+Recuerden después configurarlo adecuadamente: [Configuraciones generales para cualquier Eclipse](configuraciones-generales-para-cualquier-eclipse.md)
 
 Problema de Eclipse con Ubuntu 13.10
 ------------------------------------
@@ -54,17 +58,17 @@ Hay que buscar los archivos eclipse.desktop en las rutas /usr/share/applications
 
 Luego, debemos utilizar un editor de texto para cambiar la línea que queremos cambiar.
 
--   sudo nano eclipse.desktop
+-   `sudo` `nano` `eclipse.desktop`
 
 o bien
 
--   sudo gedit eclipse.desktop
+-   `sudo` `gedit` `eclipse.desktop`
 
 o bien sudo "el\_editor\_de\_texto\_que\_me\_guste" eclipse.desktop y reemplazamos la línea que comienza con Exec por:
 
--   Exec=env UBUNTU\_MENUPROXY= /ruta/al/eclipse/eclipse
+-   `Exec=env` `UBUNTU_MENUPROXY=` `/ruta/al/eclipse/eclipse`
 
-Luego repetimos los pasos anteriores para el eclipse.desktop que se encuentra en la ruta ~/.local/share/applications/.
+Luego repetimos los pasos anteriores para el eclipse.desktop que se encuentra en la ruta `~/.local/share/applications/`.
 
 Reiniciamos el eclipse y los menús deberían poder visualizarse correctamente.
 
