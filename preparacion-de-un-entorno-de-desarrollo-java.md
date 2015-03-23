@@ -23,6 +23,7 @@ En Ubuntu, Mint y Linux similares debemos realizar lo siguiente (1):
 -   Pararse en el directorio donde se lo descomprimió.
 -   `sudo` `mv` `jdk1.8.0` `/usr/lib/jvm/jdk1.8.0/` (si descargaste la versión JDK 1.8.0\_40 el nombre del directorio será jdk1.8.0\_40, y así sucesivamente)
 -   `sudo` `update-alternatives` `--install` `/usr/bin/java` `java` `/usr/lib/jvm/jdk1.8.0/jre/bin/java` `500`
+-   `sudo` `update-alternatives` `--config` `java`. Elegir la opcion del jdk8
 
 Con esto, el JDK ya deberia estar instalado. Probarlo desde una terminal tipeando lo siguiente:
 
