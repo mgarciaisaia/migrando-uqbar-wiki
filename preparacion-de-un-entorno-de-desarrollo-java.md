@@ -25,6 +25,10 @@ En Ubuntu, Mint y Linux similares debemos realizar lo siguiente:
 -   sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk1.8.0/jre/bin/java 500
 -   sudo update-alternatives --config java. Elegir la opcion del jdk8
 
+Otra opción en Ubuntu, Mint y similares es bajarlo mediante apt-get:
+
+sudo add-apt-repository ppa:webupd8team/java sudo apt-get update sudo apt-get install oracle-java8-installer
+
 Con esto, el JDK ya deberia estar instalado. Probarlo desde una terminal tipeando lo siguiente:
 
 ` java -version`
