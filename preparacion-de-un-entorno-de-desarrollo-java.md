@@ -18,16 +18,11 @@ Para instalarlo, debemos descargarlo de <http://www.oracle.com/technetwork/java/
 
 Los pasos siguientes dependen del sistema operativo. En Windows, el proceso esta guiado mayormente por el instalador. En Mac pueden utilizar homebrew.
 
-En Ubuntu, Mint y Linux similares debemos realizar lo siguiente:
+En Ubuntu, Mint y Linux similares debemos realizar lo siguiente (1):
 
 -   Pararse en el directorio donde se lo descomprimió.
--   sudo mv jdk1.8.0 /usr/lib/jvm/
+-   [codesudo](code.md) mv jdk1.8.0 /usr/lib/jvm/jdk1.8.0/[/code](-code.md) (si descargaste la versión JDK 1.8.0\_40 el nombre del directorio será jdk1.8.0\_40, y así sucesivamente)
 -   sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/jdk1.8.0/jre/bin/java 500
--   sudo update-alternatives --config java. Elegir la opcion del jdk8
-
-Otra opción en Ubuntu, Mint y similares es bajarlo mediante apt-get:
-
-sudo add-apt-repository ppa:webupd8team/java sudo apt-get update sudo apt-get install oracle-java8-installer
 
 Con esto, el JDK ya deberia estar instalado. Probarlo desde una terminal tipeando lo siguiente:
 
@@ -35,12 +30,18 @@ Con esto, el JDK ya deberia estar instalado. Probarlo desde una terminal tipeand
 
 (deberia mostrar 1.8.0)
 
+(1) Otra opción en Ubuntu, Mint y similares es bajarlo mediante apt-get:
+
+`# sudo add-apt-repository ppa:webupd8team/java`
+`# sudo apt-get update`
+`# sudo apt-get install oracle-java8-installer`
+
 Eclipse Luna
 ------------
 
 La instalación del eclipse es muy sencilla: hay que bajar la versión el Eclipse IDE for Java Developers que corresponda a su sistema operativo desde <http://www.eclipse.org/downloads/> y descomprimirlo en su disco rígido. Posiblemente deseen crear un acceso directo para apuntar al ejecutable.
 
-Recuerden después configurarlo adecuadamente: \[Configuraciones generales para cualquier Eclipse\]
+Recuerden después configurarlo adecuadamente: [\[Configuraciones generales para cualquier Eclipse](-configuraciones-generales-para-cualquier-eclipse.md)\]
 
 Problema de Eclipse con Ubuntu 13.10
 ------------------------------------
