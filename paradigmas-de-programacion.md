@@ -12,6 +12,7 @@ Conceptos Transversales
 
 -   [Abstracción](abstraccion.md)
 -   [Declaratividad](declaratividad.md)
+-   [Expresividad](expresividad.md)
 -   [Declaratividad vs. Expresividad](declaratividad-vs--expresividad.md)
 -   [Orden Superior](orden-superior.md)
 -   [Transparencia Referencial, Efecto de Lado y Asignación Destructiva](transparencia-referencial--efecto-de-lado-y-asignacion-destructiva.md)
