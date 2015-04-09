@@ -9,6 +9,7 @@ Las bases del paradigma
 -   [Nomenclatura lógica](paradigma-logico---un-poco-de-nomenclatura.md)
 -   [Conjunción y Disyunción](paradigma-logico---conjuncion-y-disyuncion.md)
 -   [Negación](paradigma-logico---negacion.md)
+-   [Existe vs Para Todo](paradigma-logico---existe-vs-para-todo.md)
 
 Modelando la información
 ------------------------
