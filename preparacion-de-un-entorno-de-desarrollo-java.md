@@ -80,6 +80,25 @@ Instalen Maven según la [Guía de Instalación de Maven](guia-de-instalacion-de
 
 Y cuando creemos un proyecto, recordá configurar el compilador para que emplee Java 8. Ver <http://maven.apache.org/plugins/maven-compiler-plugin/examples/set-compiler-source-and-target.html>
 
+Por ejemplo, agregá la siguiente información dentro de tu pom:
+
+<build>
+`   `<plugins>
+`     `<plugin>
+`       `<groupId>`org.apache.maven.plugins`</groupId>
+`       `<artifactId>`maven-compiler-plugin`</artifactId>
+`       `<version>`3.1`</version>
+`       `<configuration>
+`         `
+
+    1.8
+
+`         `<target>`1.8`</target>
+`       `</configuration>
+`     `</plugin>
+`   `</plugins>
+` `</build>
+
 Links útiles
 ------------
 
