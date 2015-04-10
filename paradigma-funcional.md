@@ -38,6 +38,7 @@ Errores comunes
 -   [Cuándo usar paréntesis](cuando-usar-parentesis.md)
 -   [Problemas comunes con los tipos numéricos de Haskell](problemas-comunes-con-los-tipos-numericos-de-haskell.md) &lt;- Entrá acá si tenés problemas con la división (/)
 -   [¿Unexpected ';'?](-unexpected-----.md)
+-   [possibly incorrect indentation or mismatched brackets](possibly-incorrect-indentation-or-mismatched-brackets.md)
 -   [Hugs.Trex.insertField not in scope](hugs-trex-insertfield-not-in-scope.md)
 -   [cannot construct the infinite type](cannot-construct-the-infinite-type.md)
 -   [Tips para aprobar un parcial de funcional](tips-para-aprobar-un-parcial-de-funcional.md)
