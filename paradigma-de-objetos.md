@@ -41,6 +41,7 @@ Teoría
 Sintaxis
 --------
 
+-   [Sintaxis de Smalltalk](sintaxis-de-smalltalk.md)
 -   [Variables locales en métodos](variables-locales-en-metodos.md)
 -   [Precedencia de Mensajes](precedencia-de-mensajes.md)
 
