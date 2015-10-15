@@ -23,7 +23,7 @@ Teoría
 -   [Mensajes y métodos](mensajes-y-metodos.md)
 -   Referencias: [Variables](variables.md) y [Pseudovariables](pseudovariable.md)
 -   [Encapsulamiento](encapsulamiento.md)
--   [Polimorfismo](polimorfismo.md)
+-   [Polimorfismo](polimorfismo-en-el-paradigma-de-objetos.md)
 -   [Modelando objetos - Responsabilidades y delegación](modelando-objetos---responsabilidades-y-delegacion.md)
 -   [Manejo de errores](manejo-de-errores.md)
 -   [Prototipado](prototipado.md)
