@@ -16,30 +16,36 @@ El JDK8 contiene un compilador y una máquina virtual (el runtime) que traduce a
 
 Para instalarlo, debemos descargarlo de <http://www.oracle.com/technetwork/java/javase/downloads/index.html>. Luego, procederemos a descomprimirlo.
 
-Los pasos siguientes dependen del sistema operativo. En Windows, el proceso esta guiado mayormente por el instalador. En Mac pueden utilizar homebrew.
+Los pasos siguientes dependen del sistema operativo.
 
-En Ubuntu, Mint y Linux similares debemos realizar lo siguiente (1):
+**En Windows**, el proceso esta guiado mayormente por el instalador.
+
+**En Mac** pueden utilizar homebrew.
+
+Una opción para **Debian, Ubuntu, Mint o sistemas** con apt-get es hacer:
+
+-   `sudo` `add-apt-repository` `ppa:webupd8team/java`
+-   `sudo` `apt-get` `update`
+-   `sudo` `apt-get` `install` `oracle-java8-installer`
+
+Y definirlo como el default haciendo
+
+-   `sudo` `update-java-alternatives` `-s` `java-8-oracle`
+
+Sino en **otros sistemas Linux** debemos realizar lo siguiente:
 
 -   Pararse en el directorio donde se lo descomprimió.
 -   `sudo` `mv` `jdk1.8.0` `/usr/lib/jvm/jdk1.8.0/` (si descargaste la versión JDK 1.8.0\_40 el nombre del directorio será jdk1.8.0\_40, y así sucesivamente)
 -   `sudo` `update-alternatives` `--install` `/usr/bin/java` `java` `/usr/lib/jvm/jdk1.8.0/jre/bin/java` `500`
 -   `sudo` `update-alternatives` `--config` `java`. Elegir la opcion del jdk8
 
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 Con esto, el JDK ya deberia estar instalado. Probarlo desde una terminal tipeando lo siguiente:
 
-` java -version`
+`java` `-version`
 
 (deberia mostrar 1.8.0)
-
-(1) Otra opción en Ubuntu, Mint y similares es bajarlo mediante apt-get:
-
-`$ sudo add-apt-repository ppa:webupd8team/java`
-`$ sudo apt-get update`
-`$ sudo apt-get install oracle-java8-installer`
-
-Y definirlo como el default haciendo
-
-`$ sudo update-java-alternatives -s java-8-oracle `
 
 Eclipse
 -------
